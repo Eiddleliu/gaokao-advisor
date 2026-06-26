@@ -1,0 +1,18 @@
+{
+  "score": {
+    "province": "山东",
+    "exam_type": "新高考3+3",
+    "batch": "本科批",
+    "year": 2026,
+    "total_score": 600,
+    "rank": 25000,
+    "chinese": 115,
+    "math": 130,
+    "english": 95,
+    "physics": 82,
+    "chemistry": 78,
+    "biology": 70
+  },
+  "strategy": "balanced",
+  "limit": 5
+}
